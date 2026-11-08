@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Simulador Teórico B1 CR",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Teórico B1",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "com.simulador.teoricob1cr",
+  "description": "Simulador oficial para la prueba teórica del COSEVI de Costa Rica"
+}
